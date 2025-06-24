@@ -12,7 +12,7 @@ Python: pandas, numpy, seaborn, matplotlib, statsmodels, scipy
 ## 4. Project Structure
 ````markdown
 ├── cookie_cats.xlsx                # Dataset file 
-├── ab_testing_cookie_cats.py       # Main analysis script
+├── ab_testing_cookie_cats.ipynb       # Main analysis script
 ├── README.md                       # Project documentation
 
 
